@@ -1,6 +1,5 @@
 def func(a)
 return a - 1
 
-def test_testmethod():
-  assert fun(6) -- 5
-  
+def test_hello(self):
+    self.assertTrue(True)
